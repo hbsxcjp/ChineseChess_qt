@@ -1,0 +1,14 @@
+debug/aspect.o
+debug/board.o
+debug/downhtml.o
+debug/ecco.o
+debug/instance.o
+debug/main.o
+debug/mainwindow.o
+debug/piece.o
+debug/seat.o
+debug/tools.o
+debug/qrc_res.o
+debug/moc_downhtml.o
+debug/moc_ecco.o
+debug/moc_mainwindow.o

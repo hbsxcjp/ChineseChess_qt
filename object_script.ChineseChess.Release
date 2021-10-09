@@ -1,0 +1,14 @@
+release/aspect.o
+release/board.o
+release/downhtml.o
+release/ecco.o
+release/instance.o
+release/main.o
+release/mainwindow.o
+release/piece.o
+release/seat.o
+release/tools.o
+release/qrc_res.o
+release/moc_downhtml.o
+release/moc_ecco.o
+release/moc_mainwindow.o
